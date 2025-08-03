@@ -14,7 +14,8 @@ Welcome to my personal portfolio website — a modern, fully responsive static w
 
 
 
-> \[https://TsepoNgubane23.github.io/personal-portfolio](https://TsepoNgubane23.github.io/personal-portfolio)
+> \[https://TsepoNgubane23.github.io/personal-portfolio]
+(https://TsepoNgubane23.github.io/personal-portfolio)
 
 
 
