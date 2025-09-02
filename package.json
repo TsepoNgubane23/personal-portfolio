@@ -1,0 +1,38 @@
+{
+  "name": "ai-powered-portfolio",
+  "version": "1.0.0",
+  "description": "AI-Powered Personal Portfolio of Tsepo Ngubane - Software Developer & UI/UX Designer",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 3000 -o",
+    "build": "echo 'Static site - no build process needed'",
+    "deploy": "gh-pages -d .",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "ai-powered",
+    "software-developer",
+    "ui-ux-designer",
+    "javascript",
+    "html",
+    "css",
+    "artificial-intelligence",
+    "chatbot",
+    "analytics"
+  ],
+  "author": "Tsepo Ngubane",
+  "license": "MIT",
+  "homepage": "https://tsepongubane23.github.io/ai-powered-portfolio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TsepoNgubane23/ai-powered-portfolio.git"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0",
+    "http-server": "^14.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

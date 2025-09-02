@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tsepongubane23.github.io/ai-powered-portfolio/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
